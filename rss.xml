@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your Website]]></title>
+        <description><![CDATA[When your website appears in search results in say Google, the text here will be shown underneath your website's title.]]></description>
+        <link>http://website.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 11 Jan 2015 20:12:14 GMT</lastBuildDate>
+        <atom:link href="http://website.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 11 Jan 2015 20:12:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<!DOCTYPE html>
+<html lang="en">
+  <head></head>
+  <meta charset="utf-8">
+  <title>Page not found :(</title>
+  <style>
+    ::-moz-selection {
+    	background: #b3d4fc;
+    	text-shadow: none;
+    }
+    
+    ::selection {
+    	background: #b3d4fc;
+    	text-shadow: none;
+    }
+    
+    html {
+    	padding: 30px 10px;
+    	font-size: 20px;
+    	line-height: 1.4;
+    	color: #737373;
+    	background: #f0f0f0;
+    	-webkit-text-size-adjust: 100%;
+    	-ms-text-size-adjust: 100%;
+    }
+    
+    html,
+    input {
+    	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    
+    body {
+    	max-width: 500px;
+    	_width: 500px;
+    	padding: 30px 20px 50px;
+    	border: 1px solid #b3b3b3;
+    	border-radius: 4px;
+    	margin: 0 auto;
+    	box-shadow: 0 1px 10px #a7a7a7, inset 0 1px 0 #fff;
+    	background: #fcfcfc;
+    }
+    
+    h1 {
+    	margin: 0 10px;
+    	font-size: 50px;
+    	text-align: center;
+    }
+    
+    h1 span {
+    	color: #bbb;
+    }
+    
+    h3 {
+    	margin: 1.5em 0 0.5em;
+    }
+    
+    p {
+    	margin: 1em 0;
+    }
+    
+    ul {
+    	padding: 0 0 0 40px;
+    	margin: 1em 0;
+    }
+    
+    .container {
+    	max-width: 380px;
+    	_width: 380px;
+    	margin: 0 auto;
+    }
+    
+    /* google search */
+    
+    #goog-fixurl ul {
+    	list-style: none;
+    	padding: 0;
+    	margin: 0;
+    }
+    
+    #goog-fixurl form {
+    	margin: 0;
+    }
+    
+    #goog-wm-qt,
+    #goog-wm-sb {
+    	border: 1px solid #bbb;
+    	font-size: 16px;
+    	line-height: normal;
+    	vertical-align: top;
+    	color: #444;
+    	border-radius: 2px;
+    }
+    
+    #goog-wm-qt {
+    	width: 220px;
+    	height: 20px;
+    	padding: 5px;
+    	margin: 5px 10px 0 0;
+    	box-shadow: inset 0 1px 1px #ccc;
+    }
+    
+    #goog-wm-sb {
+    	display: inline-block;
+    	height: 32px;
+    	padding: 0 10px;
+    	margin: 5px 0 0;
+    	white-space: nowrap;
+    	cursor: pointer;
+    	background-color: #f5f5f5;
+    	background-image: -webkit-linear-gradient(rgba(255,255,255,0), #f1f1f1);
+    	background-image: -moz-linear-gradient(rgba(255,255,255,0), #f1f1f1);
+    	background-image: -ms-linear-gradient(rgba(255,255,255,0), #f1f1f1);
+    	background-image: -o-linear-gradient(rgba(255,255,255,0), #f1f1f1);
+    	-webkit-appearance: none;
+    	-moz-appearance: none;
+    	appearance: none;
+    	*overflow: visible;
+    	*display: inline;
+    	*zoom: 1;
+    }
+    
+    #goog-wm-sb:hover,
+    #goog-wm-sb:focus {
+    	border-color: #aaa;
+    	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    	background-color: #f8f8f8;
+    }
+    
+    #goog-wm-qt:hover,
+    #goog-wm-qt:focus {
+    	border-color: #105cb6;
+    	outline: 0;
+    	color: #222;
+    }
+    
+    input::-moz-focus-inner {
+    	padding: 0;
+    	border: 0;
+    }
+  </style>
+  <body>
+    <div class="container"></div>
+    <h1>Not found <span>
+         
+        :(</span></h1>
+    <p>Sorry, but the page you were trying to view does not exist.</p>
+    <p>It looks like this was the result of either:</p>
+    <ul>
+      <li>a mistyped address</li>
+      <li>an out-of-date link</li>
+    </ul>
+    <script>var GOOG_FIXURL_LANG = (navigator.language || '').slice(0,2),GOOG_FIXURL_SITE = location.host;</script>
+    <script src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
+  </body>
+</html>]]></description>
+            <link>http://website.com/404.html</link>
+            <guid isPermaLink="true">http://website.com/404.html</guid>
+            <pubDate>Wed, 26 Nov 2014 00:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<div class="col-sm-9 blog-main">
+		<p class="introduction">
+			<b>My name is Jeremiah.</b><br />
+			I'm a current student of the <em>Wilderness Awareness School</em>
+			<a href="http://wildernessawareness.org/program/anake-outdoor-school/">Anake</a>
+			program class of 2015.<br />
+			I’m feeling drawn to share some of this
+			experience with you (who are you? I do not know).<br />
+			Enjoy.
+		</p>
+</div>
+
+<div class="col-sm-3 blog-main">
+	<img class="profile-pic" src="/img/profile.png" />
+</div>]]></description>
+            <link>http://website.com/index.html</link>
+            <guid isPermaLink="true">http://website.com/index.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 08:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dirt Medicine]]></title>
+            <description><![CDATA[<p>Sit spot is one of the routines I was most looking forward to in Anake.
+Strangely it’s also one of the ones that would have been on the easier side to
+pick up and start doing on my own. How hard can it be to go and just sit in the
+woods? Sit spot as a routine has been in my awareness for a few years and yet
+I’ve never done it intentionally more than a handful of times. It’s actually
+really hard. Not sitting in the woods -- that’s easy -- I love sitting in the
+woods. But for whatever reason, <em>deciding</em> to go sit in the woods is <em>really</em> hard.</p>
+<p>Sit spot is the core routine of core routines. Though I’ve felt drawn to it for
+a while and heard many times that it’s the bees knees, it’s been a mystery to me
+how something so simple could be supposedly so transformative. I’m gonna go out
+on a limb and say I think I might be beginning to understand the magic.</p>
+<p>I struggled early on with finding a spot. It felt like a big commitment. I’m
+gonna go sit in this spot for 9 months. Dang. It better be perfect. We have a
+lake (pond?) less than 100 yards from our house in Duvall. It’s got ducks,
+geese, a heron, lots of small birds, raccoons, coyote sign, deer sign, and
+probably more. It’s teeming with life. Perfect right? My sit spot is not there.
+Instead, my sit spot is a 10 minute walk (or 30 minute fox walk) away. Why oh
+why did I choose that? I’ve asked myself that frequently.</p>
+<p>My primary expectation around the sit spot routine was that it would be a place
+to watch and see exciting wildlife. I had the pond as my sit spot for the first
+week and was generally excited by the wildlife. But what has become clearer to
+me, and what was in the beginning unconsciously clear, is that my sit spot had
+to be a place of healing. The dynamics of my spot on the pond and neighbourhood
+feel were not (for me) conducive to healing.</p>
+<p>So I up and moved. This was the part that I struggled with because you’re not
+“supposed” to move your spot. For a little while I went to both spots unsure
+whether I wanted to commit to the wildlife on the pond or the strange new place
+I had found. At about three weeks into the program I ran into some emotions
+that were calling for more resources than I had at my immediate disposal. I
+took the only reasonable course of action and leaving the house headed without
+thinking for my sit spot. It wasn’t the one on the pond.</p>
+<p>My sit spot is in a strip of forest sandwiched between two housing
+developments. It’s entrance is a short dirt road up a hill lined with Salmon
+Berry, Big Leaf Maple, Black Cottonwood, and Alder. In the late afternoon of a
+fall day it’s breathtakingly beautiful. At the end of the dirt road is a
+roundabout where I head up into the forest. I think it’s an old second growth
+forest. The canopy is Cedar and Doug Fir and Big Leaf Maple. For me, old trees
+like this have an astounding sense of belonging, a sense of hereness that is
+impossible to ignore. The understory is mostly Sword Fern woven throughout the
+trees and scattered Oregon Grape. And, perhaps most importantly, the fallen
+trees and stumps. These ghostly remnants of the past are both a monument to
+what was here before and the bed from which the new things grow. The place
+smells dank. Musky earth and decomposing wood. The line between the living and
+the deading is blurred.</p>
+<p>This is the place where I internalize what I learn on class days. It has
+frequently been where I meet a new kind of being for the first time. And it’s
+where I am for the first time in my adult life developing ongoing relationships
+with non-human beings (trees and dirt and ferns and the like). I love the
+rotting log that I sit on and the young Cedar that stands next to me. I’m
+learning to love the rain.</p>
+<p>I’ve known for some time that my energy is recharged the most by being immersed
+in nature. This is the first time I’ve successfully had a practice where the
+intention is just that. And that says a lot.</p>
+]]></description>
+            <link>http://website.com/anake/dirt-medicine.html</link>
+            <guid isPermaLink="true">http://website.com/anake/dirt-medicine.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<div class="col-sm-9 blog-main">
+		<p class="introduction">
+			<b>My name is Jeremiah.</b><br />
+			I'm a current student of the <em>Wilderness Awareness School</em>
+			<a href="http://wildernessawareness.org/program/anake-outdoor-school/">Anake</a>
+			program class of 2015.<br />
+			I’m feeling drawn to share some of this
+			experience with you (who are you? I do not know).<br />
+			Enjoy.
+		</p>
+</div>
+
+<div class="col-sm-3 blog-main">
+	<img class="profile-pic" src="/img/profile.png" />
+</div>]]></description>
+            <link>http://website.com/anake/index.html</link>
+            <guid isPermaLink="true">http://website.com/anake/index.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 08:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocketships are Rad]]></title>
+            <description><![CDATA[<p>My name is Jeremiah. I&#39;m a current student of the Anake program class of 2015.
+I’d like to introduce myself and tell you the story about how I ended up here.
+However, when I tell that story it no longer makes sense because here is not
+where I thought it was. Strangely, it&#39;s where I wanted it to be, without
+knowing. I&#39;m really not sure how I ended up here, but with great fortune it&#39;s
+exactly where I need to be. Clear as the fresh spring waters of the Cascades?
+No doubt.</p>
+<p>This year is shaping up to be fairly radical. As such, I’m feeling drawn to
+share some of this experience with you (who are you? I do not know). But before
+I really get into sharing some of the experiences of this year (in subsequent
+posts), I want to give a bit of an overview of what the Anake program is from
+my perspective.</p>
+<p>We&#39;ve finished up just about two months of class. And as you can undoubtedly
+imagine I&#39;m now qualified to tell you exactly what this program is about (this
+is not true). What they don&#39;t tell you about Anake (or, more accurately, what
+they didn&#39;t tell me, since clearly I&#39;m about to tell you) is that the best
+possible description of it is that it is a ride on an interstellar
+rocket-missile cruising through space at warp speed.</p>
+<p>The first thing you do is blast off.</p>
+<p>The second thing you do is say &quot;holy-mole I&#39;m on a rocket ship, this is so
+cool, I&#39;ve always wanted to be on a rocket ship, rocket ships are rad.&quot;</p>
+<p>The third thing you do is say &quot;Actually, I don&#39;t like rocket ships, I’m getting
+motion sickness, the interstellar is so far away, we aren’t going anywhere,
+space is just way too big, where did I put my wormhole device?&quot;</p>
+<p>The fourth thing you do is say &quot;rocketships are rad...&quot;</p>
+<p>The fifth thing you do is say &quot;wait a minute? I&#39;m on a rocket ship in the
+middle of space? No bueno. What if this thing malfunctions? We could all die or
+start eating each other.&quot;</p>
+<p>The sixth thing you do is say &quot;the interstellar is rad...&quot;</p>
+<p>Then you wake up and realize it was all a dream. It&#39;s a school day so you head
+up to Linne Doran for class. You&#39;re clan is clan of the day so you get to work
+together to bust a friction fire and then help gather everyone for a fun day in
+the woods. After bringing the circle of Anakes together with a song you pass it
+off to the instructors so they can start up the lesson for the day.</p>
+<p>Marcus looks into the fire for a while and then introduces the day&#39;s activity:
+&quot;Everyone take a deep breath...this morning we&#39;ll be building an interstellar
+rocket-missile out of cedar logs and sword ferns.”</p>
+]]></description>
+            <link>http://website.com/anake/rocketships-are-rad.html</link>
+            <guid isPermaLink="true">http://website.com/anake/rocketships-are-rad.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thank You For This Moment]]></title>
+            <description><![CDATA[<p>Thank you for reading this.  I want to recognize the importance of that.  The &quot;if a tree falls in the woods and there&#39;s no one there to hear it, is there a sound?&quot; question applies equally to written words.  If there is no one reading them, are bits and bytes really words?  How much of existence is in quantum superposition, decohered into concreteness only when <em>you</em> see it?  Thank you for decohering this writing into concrete existence.</p>
+<p>There are so many things and processes, <em>so</em> many, that have come together in known and unknown ways to allow my writing and your reading of these words.</p>
+<p>There&#39;s an earth, holding up a chair for me to sit on while I write these words.  Probably it&#39;s still there, holding up a chair for you to sit on while you read these words.  In a mind-blowing double-take that same earth is also holding me down onto the chair so I don&#39;t fly off into space.  Unless you are an astronaut reading this in space (if so, please email me immediately and let me know because that would be most rad) then you likely also have the immense good fortune to be firmly rooted to your chair.  Thank you earth.</p>
+<p>There&#39;s a glass of water next to me.  That water is keeping me well hydrated while I write.  It&#39;s actually the same water that kept the dinosaurs well hydrated.  Let me repeat that, <em>the same water</em>.  Also true of the water in your glass (you are staying hydrated right?).  In fact, the water in your glass and the water in my glass have probably been <em>frequently</em> in the same body of water, possibly even right next to each other.  Maybe you think that&#39;s gross.  <em>I</em> think that is totally rad.  Thank you water.</p>
+<p>There&#39;s a whole host of beings that live in the water.  What do fish have to do with the reading of these words.  I have no idea.  Google it.  Ah, that reminds me, <em>the engineers that build google are descendants of fish</em>.  Thank you fish.</p>
+<p>There&#39;s an entire kingdom of plants (<em>Plantae</em>).  For breakfast today I ate some plants (rice, bok choy, sweet potato).  For lunch I ate some plants (wheat, peanuts).  For dinner I ate some plants (potatoes, kale, wheat, garlic, avocados, onions).  I also ate some animals, but those animals are really just old plants in disguise.  In fact, I&#39;m just old plants in disguise.  In fact <em>these words are just old plants</em> in disguise.  Thank you plants.</p>
+<p>There&#39;s a great abundance of wild animals running around in those plants.  First, we humans are actually wild animals running around in plants (though we like to forget it).  Second, paleolithically, our primary interaction with wild animals was through their tracks and sign.  This was a primary driver of our increasing brain power and crucially our ability to give meaning to symbols.  Meaningful symbols are the groundwork for words.  These are words.  Thank you animals.</p>
+<p>There&#39;s a great many forests full of trees.  I love trees.  Trees are my favorite beeings. Trees are so crucial to our existence as modern humans that I don&#39;t even know where to start.  As I write this I&#39;m sitting on a chair made out of tree at a table made out of a tree on a floor made out of trees surrounded by walls made out of trees under a roof made out of trees.  The Thanksgiving Address assignment was given to me on a piece of paper made out of a tree.  And these are all from dead trees.  Live trees are even cooler.  Especially here in the PNW.  Holy-fricken-mole.  I would not be sitting here writing words if it weren&#39;t for trees showing me how it&#39;s done.  Thank you trees.</p>
+<p>There&#39;s a bird outside the window on the feeder.  Looks like a Junco.  He&#39;s furtively darting between the nearby bush and the feeder.  He doesn&#39;t want to stay on that danjerous feeder for long.  When I poke my head out the door he gives a click and darts into the bush to give some more clicks.  The few other Juncos in the bush shoot over to the tree, letting the Towhees know that the feeder is now unsafe. Distributed, realtime communication of current events.  Likely you aren&#39;t hearing these written words from the birds (though again, if true, email me asap), but likely you are recieving them through our current preferred impementation of a distributed communication network.  Thank you birds.</p>
+<p>There&#39;s a gentle breeze outside.  Right now it&#39;s subtle, but sometimes it&#39;s one heck of a great wind.  Air is our primary conduit of sound and wind is how we generate sound.  I wonder if humans started communicating first with visual symbols or auditory symbols?  That&#39;s another question for google. For myself, though, I first learned how to craft words into stories by generating modulated wind through my larynx and recieving realtime feedback via air in my ears. Over time, my stories have evolved into this one.  Thank you wind.</p>
+<p>There&#39;s a moon overhead. It&#39;s close to full right now.  Last night the skies were clear and it stood there in its almost fullness, telling me at a glance how far time was through the moon-cycle.  We have a number of cycle patterns on earth.  I happen to be writing right now on a specific day of the month.  That a month can become a globally recognized unit of time is because the moon has been telling us how long a moon-cycle is ever since there was a moon.  Thank you moon.</p>
+<p>There&#39;s a sun overhead, keeping me, and everyting else on this earth perfectly warmed. From what I understand, light hitting the earth is what makes it all happen.  Energy hits molecules and weird stuff happens.  Ultimately that wierd stuff becomes you and I and this computer that I&#39;m writing on.  Thank you sun.</p>
+<p>There&#39;s an innumerable count of stars beyond the sun.  In addition to their role as navigation aids, the stars also hold space for mystery, and possibility, and new stories.  Each one holds the possibility of countless unknown stories.  We humans are in the business of making the unknown known, but the stars are holding on to the unknown and won&#39;t let go of it easily.  Indeed it was likely the mystery of the unknown that led you to read these words.  Thank you stars.</p>
+<p>There&#39;s a great lineage of ancestors, both for you and me.  It would be very hard for me to be writing these words if I did not exist, or for you to be reading them if you did not exist.  Certainly neither of us would be here without parents, or their parents, or their parents, or a very long list of ancestors going back to the beginning of time.  If any of them were missing, these words would be missing.  Thank you ancestors.</p>
+<p>There&#39;s a strong probability that there will be many generations that follow us.  We can think of the ancestors as pushing history forward, pushing these words into existence.  We can likewise think of the future generations as pulling history forward, as pulling these words into existence.  They want to have an existence to exist in.  Thank you future generations.</p>
+<p>There are the spirits of the four directions.  I&#39;m still working through what those words mean, but for me, those abstract symbols are pointing toward our own personal existential navigation systems.  When I talk about my path in life I&#39;m not talking about walking from here to the grocery store (west, then south), I&#39;m talking about the choices (turns) I make between birth and death.  The spirits of the four directions are the things in life that allow us orient our life path with our heart&#39;s longing.  I&#39;ll readily admit to not alway having my life path in alignment with my hearts longing, but there is indeed some of my heart&#39;s longing in these words.  Perhaps there is some of your heart&#39;s longing in reading these words.  Thank you spirits of the four directions.</p>
+<p>There is the great spirit.  Another concept hard to describe, but for me, the great spririt is nothing more, or less, than the ongoing unfolding of the universe.  These words, my writing of them, and your reading of them, are indeed part of the unfolding of the universe.  Thank you great spirit.</p>
+<p>That&#39;s a pretty good list of the things and processes that have gone into the writing of these words.  And yet, it barely scratches the surface.  I&#39;ve only named a couple fairly basic and foundational things.  Each of those things are astronomicaly more complex than what I&#39;ve been able to summarize, and there are astronomically more things that could be named.  In fact, to name all of the things and proceses would take more time than the universe has been in existence (the universe, being a conglomoration of parallel processes will run faster than the naming, a sequential process).  And yet, all of those things and processes have existed, and without any of them, this precise moment would not exist.  Thank you for this moment.</p>
+]]></description>
+            <link>http://website.com/anake/thank-you-for-this-moment.html</link>
+            <guid isPermaLink="true">http://website.com/anake/thank-you-for-this-moment.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Babbling Brook]]></title>
+            <description><![CDATA[<p><em>&quot;When you go to your Sit Spot do a sense meditation first thing.&quot;</em></p>
+<p>Okay, what&#39;s a sense meditation?  Resources were initially slim on this one and no two people seem to describe it in exactly the same way.  I like to describe it like this: &quot;Pay attention to your senses.&quot;  I initially wrote &quot;Stop moving and pay attention to your senses.&quot;  But I think the &quot;stop moving&quot; part is actually optional.  The core of the thing for me is having my awareness include as much current moment sensory data as possible.</p>
+<p>There have been a very small number of times in my life where I&#39;ve had the experience of my awareness being comepletely (as far as I can tell) non-separate from my current moment sensory experience.  These moments also seem to correspond to a strong sense of well-being.  This sense of well-being is a pretty powerful carrot and I have a tendency to make these moments into benchmark target experiences.  That tendency is a sharp two-edged sword.  It gives me motivation to cultivate practices that may move me toward future such moments.  Intentionally doing &quot;a sense meditation&quot; falls into the category of cultivating practices that may move me toward moments of well-being. The other edge to the sword is that those moments are punctuated with a definite lack of wanting.  And wanting a lack of wanting is a wicked catch-22.</p>
+<p>I haven&#39;t figured out that catch-22.  So in the interim I&#39;ll just accept that I want experiences of well-being and give cultivation pratices a good try.</p>
+<p>I found a good dose of extra inspiration in the reading materials associated with the exercise.  I read a story about Ingwe being able to hear a fresh water spring in the woods that the storyteller was unable to hear.  This idea - that there is potentially much more information coming through my senses than I&#39;m generally aware of <em>and</em> that this awareness could feasibly be expanded - is very inspirational and motivational to me.</p>
+<p>This story also made experiential awareness somehow more concrete for me.  Instead of being this abstract idea of &quot;being more aware&quot; it became &quot;being able to hear the spring in the woods.&quot;  Shortly after this I noticed (+1 awareness points already) that on the way to my sit spot I always first noticed the creek that I cross over on my way there with my eyes.  As soon as I saw it I noticed that I could certainly hear it and hear it well.  But when, I asked myself, do I start hearing it?  Is there creek sound entering my ears when I&#39;m further away?  If so, why don&#39;t I notice that?  And how far away from the creek does the creek sound travel?  So many questions.</p>
+<p>I challenged myself to notice the creek by sound before sight.  The next couple times I was headed to my sit spot I found that I still noticed it by sight first.  In fact, I didn&#39;t remember that I was attempting to notice the creek by sound first until I saw the creek.  Then it would be &quot;oh crap, I forgot to notice the creek sooner.&quot;</p>
+<p>I was also trying something else however.  After I noticed the creek with my eyes, I would keep walking past it and try to notice how long I could continue to hear the creek sound for.  The first time I did this I walked 20 feet and couldn&#39;t hear the creek.  This seemed like a rediculously unexceptable level of awareness so I stoped walking and tried to listen really hard for the creek.  After a bit of intentional listening I found that I could indeed hear the creek. Another ten feet and I couldn&#39;t hear it again.  But after another bit of intentional listening I could hear it, but it was just a bit trickier.</p>
+<p>After I could really not hear it, even after some hard listening, I would proceed to my sit spot and do whatever it is that I did there, including a sense meditation.</p>
+<p>On the way back from my spot I found that I heard the stream before I saw it.  And, to my great surprise, I heard it when I was substantially further away from it than I had last heard it when I had been walking away from it.  I immediately had to wonder if my sense meditaion had been more effective than it seemed.</p>
+<p>Eventually I remembered to listen for the stream on my way to my sit spot.  At first I wasn&#39;t able to hear it from very far away.  But over the course of a few visits I challenged myself to stop and try to hear it from a bit farther away.  And lo and behold the distance at which I could start to hear the stream began to increase.</p>
+<p>What has occured to me, and this is fascinating, is that I previously didn&#39;t actually know what the stream sounded like.  Since I didn&#39;t know what it sounded like there was no way I could hear it before I saw it.  I mean, really, I knew what a stream sounds like.  I&#39;ve heard lots of streams in my day.  But either I didn&#39;t know what <em>this</em> stream sounded like.  Or I didn&#39;t know what pieces of the sound of a stream sounded like.  And when you are further away and there are other noises all you might hear is a piece of a stream sound.  Now I know a bit more what the components of stream sound are, so I might hear just one babble and realize, &quot;oh, a babbling brook.&quot;  </p>
+<p>Rumor on the street is that this kind of intentional awareness work encourages the mind to develop a search pattern for &quot;babbling brook&quot; so that it is (a) easier to parse that sound out of the chaos that enters your ears, and (b) possible that the &quot;babbling brook&quot; sound will pop into your awareness without intentional listening.  Which is exactly what has started to happen to me.  I&#39;m no longer intentionally listening for the stream on the way to my sit spot.  But I hear it almost every time, long before I see it.  Sometimes I hear it not long after I walk out of my house.</p>
+<p>Pretty F.ing badass if you ask me.</p>
+<p>(I would give myself +19 awareness points, but it now rains quite a bit more then when I started this exercise and the vegetation has become winter sparse, so the stream is actually louder now than it was, so maybe +3 points for the stream and +2 points for noticing the rain, and +2 for the vegetation.)</p>
+]]></description>
+            <link>http://website.com/anake/the-babbling-brook.html</link>
+            <guid isPermaLink="true">http://website.com/anake/the-babbling-brook.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 19:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glimpse]]></title>
+            <description><![CDATA[<p>Getting off a bus at the end of a long ride is always a surreal experience.
+Time ceases to exist while on a bus that travels through the day and night. You
+can&#39;t figure out when to sleep and you can&#39;t sleep when you want. Eventually
+you can&#39;t remember how long its been since you started, or where you started.
+The outside world becomes a shadowy blur passing by through tinted windows. And
+the fact that you once walked that world becomes a distant memory, or a dream.
+The upshot of this is when I got off the bus a little over a week ago in Iron
+River, Michigan at 5AM in the &quot;morning&quot; I had little idea where I was, what I
+was doing, or even if I was awake or not.</p>
+<p>Iron River, Michigan is pretty dark at 5AM and very deserted. Its a small
+enough town that streetlights are few and far between (and flickering) and gas
+stations are not open 24 hours. It&#39;s a town towards the far end of bus lines,
+nestled on the far western side of the Upper Peninsula of Michigan right next
+to Wisconsin. I&#39;d been the only one on the bus for the last 4 hours or so, and
+according to the bus driver, that wasn&#39;t abnormal at all for this part of the
+country. The word remote was invented in the next town over. Now if your asking
+what in tarnation I was doing there you&#39;re asking the same question I was
+asking myself in the wee hours of that morning. But before we can understand
+that we&#39;re going to have to look at a little bit of (my) history.</p>
+<p>Two epiphanies have occurred in the last two years of my life the aftermath of
+which are largely responsible for my current direction. The first happened
+about 2 years ago. Here is an excerpt from my journal from October 20th, 2008
+which happened to be a monday (maybe my whole life philosophy is now just a
+hooped up case of the mondays.. :-):</p>
+<blockquote>
+<p>&quot;And woa! I&#39;m also just now considering some major life changes: sell off all
+my extraneous shit. Sell the iMac. Sell off my DPS skis. Keep only one pair.
+Sell off anything else that I don&#39;t need, give away all my junk. Streamline my
+life. I&#39;m currently living in full realization that my current life is not
+ideal - why should I keep fucking around? Do I have the will power to do this?
+Because I may not find my true path until I get rid of the maze that is my
+current life. Just do it.&quot;</p>
+</blockquote>
+<p>If you can&#39;t read it in there, I was pretty surprised to find my self writing
+those words. And while I didn&#39;t immediately act on those thoughts the seed was
+planted and a year later I found myself amazingly leaving Utah jobless and
+homeless with the sum total of my belongings on my back and approximately no
+idea where I was going or what I was doing. Which leads me to epiphany number
+two which happened shortly after I left Utah. This epiphany happened to me on a
+beautiful rocky river while I was taking a fitness course in West Virginia and
+is mentioned in my journal with only the following line:</p>
+<blockquote>
+<p>&quot;Knowing the woods are for me and I am for the woods.&quot;</p>
+</blockquote>
+<p>This time the thought didn&#39;t seem like a surprise so much as a realization of a
+fact I had known but forgotten for quite some time. Even still the results of
+the thought were not immediately apparent and are in fact still culminating.
+The thought, however, certainly began a questioning and exploration of the
+natural realm and my relationship to it. Since I was a child I&#39;ve been drawn to
+the woods but this time the draw seemed different. The more I questioned and
+explored in this direction the more I felt compelled to experience the
+wilderness and a real relationship with it. But the more I experienced the
+wilderness the more frustrated I became with my inability to enter into the
+relationship with it that I felt was innate to the wilderness itself - one of
+harmony with itself. I was constantly getting poison ivy or being driven away
+by mosquitos or injury. I felt like I was bringing my old life patterns and
+needs with me into the woods and in so doing finding myself unable to adopt the
+patterns and habits of the woods itself. But I was certainly not deterred in my
+quest and on such a quest sooner or later one is bound to end up in Iron River,
+Michigan.</p>
+<p>As I got off the bus, gathered my bags, and stepped into the dark parking lot,
+I looked around, trying to get myself oriented. Down at the end of the parking
+lot was a lone station wagon barely visible in the shadows. I walked toward it
+with my fingers crossed. Soon I was able to make out &quot;Teaching Drum Outdoor
+School&quot; written on the side in large balloon-like letters. A young women was
+getting out of the car as I pulled up. We introduced ourselves, determining I
+was in the right place, and soon my bags were in the car and we were passing
+quickly out of the small town and into the woods as the first rays of dawn
+streaked across the clouds.</p>
+<p>I still felt like I was in a dream after the bus ride and the forrest around us
+still seem surreal. But as the dawn broke down the shadows the experience felt
+more and more real. We drove on empty roads through the woods of Michigan and
+passed without fanfare into the woods of northern Wisconsin. The land here was
+mostly flat, but rolled just enough to create a great patchwork of forests and
+bogs and a great maze of lakes and creeks.</p>
+<p>When we arrived at the school it was still quite early in the morning. The sun
+was hidden by mostly cloudy skies but it had still risen only recently. We
+pulled up the short driveway into the midst of a small collection of wooden
+buildings that constituted the support center for the school. This was a
+collection of administration buildings and homes for the small community of
+people that supported the school. This group of 10-15 people were standing in a
+small circle on a patch of grass as we drove in and began to disperse for the
+days activities as I was getting myself out of the car and taking in the new
+surroundings.</p>
+<p>I quickly met Matt, a soft-spoken and smiling guy with long hair and a a full
+woodsmans beard, who had been my main contact at the school so far and had been
+in charge of organizing my visit to the school. He gave me a quick tour of the
+support center, went over my gear and set me up with a new knife and a set of
+wool long johns. After a quick nap I was back in the station wagon with a small
+one-person canoe tied up top and Matt was driving me in search of the school&#39;s
+seekers -- their way of talking about their students. I had come to this school
+to visit for a week the current participants of the school&#39;s Wilderness Guide
+Program - an 11-month wilderness immersion and living experience, and to see
+for myself if returning to the school next year for the full program was
+something I wanted to do.</p>
+<p>Matt dropped me off at a boat launch on a large creek where I met 3 of the
+current year&#39;s seekers who had come to pick up food dropped off by the support
+center. These 3 seemed a bit worn out at first impression and wet and not
+entirely warm on this chill morning, but they were in good spirits and quite
+friendly. Introductions were quick as there seemed to be quite the interest to
+return to camp. The seekers live as a group in the woods, removed as much as
+possible for the year from the trappings of modern civilization. They are
+learning to sustain the life of their community with what the earth provides in
+the forest that surrounds them. The school considers its role to be one of
+support and indirect guidance to the seekers and as such takes a hands off
+approach as much as possible. The school&#39;s instructors - guides - don&#39;t live
+with the seekers but visit frequently to help keep the experience on track.</p>
+<p>After determining how to load myself and my backpacks worth of gear into the
+small and very unstable canoe, the four of us were off paddling up the slowly
+moving creek. It was slightly chilly and the mornings off-and-on-rain returned
+with a drizzle. I felt incredibly excited to be there and the rain didn&#39;t
+dampen my spirits in the slightest. I was finally able to feel myself relax
+after the hectic travels. After a short while of paddling into the wind and the
+rain the drizzle passed and soon we were hauling the canoes up on an unmarked
+shore, hiding them in the trees and bushwhacking our way a bit farther up the
+creek to the seekers current encampment.</p>
+<p>I had learned earlier at the support center that the seekers were not at their
+normal camp but were currently at a temporary camp set up to gather swamp grass
+for the thatching of a wigwam they were constructing. They had just arrived at
+this new camp a day or two before I joined them and had setup a loose
+collection of small tarp shelters and lean-tos to house them for their time
+there. With the break in the rain I setup my tent as quickly as possible then
+joined a small group of the seekers around their fire as they divided up the
+food that had just been picked up and started cooking a bit for lunch. It
+seemed that most were waiting out the weather in their shelters and soon it
+started raining again and I was in my tent taking my second much need nap of
+the day.</p>
+<p>I awoke late in the day to no rain and a bit of sun and joined in with wood
+gathering for the evening fire. I met the rest of the seekers slowly as they
+appeared mysteriously out of their tarps or the trees. There were 7 in total. 3
+Americans, 2 from Germany, 1 from France and 1 from Ireland. Ages ranging from
+19 to mid 40&#39;s. 3 women and 4 men. Quite an interesting and diverse group. I
+settled in to watch and experience what it was that had drawn such different
+people to the same little spot in the woods and what they were doing there
+together.</p>
+<p>Over the next 7 days I experienced a lot and learned even more. Learning to
+make a life in the wilderness seems to be quite the transition. Going into the
+visit I was thinking a year seemed like a long time to spend in the woods.
+Coming out it is apparent it would merely be the first small step on a journey.
+It was a rough week for the seekers. They were separated these seven days from
+the home they had been building in the woods these past few months and faced
+with the daunting prospect of gathering tremendous amounts of swamp grass from
+the swamp that bordered our creek. They were at the tail end of the summer
+hunger months so food was scarce. Tension and peace was washing over the group
+like the tide. They were, as they told it, battling with the fourth threshold
+of the wilderness experience - the relinquishing of personal ego in favor of
+circle consciousness. One seeker found it too much at the time and moved on
+while I was there. I helped out with the physical activities as much as I could
+but found myself able only to watch the emotional dynamics play themselves out.
+The seekers were all incredible, I can only hope that if I do this next year,
+the next batch will be as cool is this one. When the time came for me to leave,
+my feet were tired, my hands were scarred and bleeding, and my heart was happy.</p>
+<p>The school&#39;s motto reads</p>
+<blockquote>
+<p>where wilderness is the classroom
+ancient voices are the teachers
+knowing self and balance are the quest</p>
+</blockquote>
+<p>Knowing the wilderness here is as much a means as it is an end. The scope of
+what they are doing is much broader than &quot;learning survival skills&quot; or even
+&quot;learning how to live in balance with the wild.&quot; The quest for self and its
+harmonious co-existence with and in the the stormy billows of the world is one
+with which I am familiar. But to pursue it outside the reach of insidiously
+theoretical dusty old books and inside the experience of the real earth and
+surrounded by relations of all types (humans, birds, chipmunks, trees, rocks
+and rivers) that are also of the same pursuit seems a bit too much like a dream
+come true.</p>
+<p>Which makes me wonder, now that I&#39;m back in the world of glass and concrete and
+electric lights, if the whole week was just a glimpse through the window of a
+cross country bus by a sleep deprived mind of what my life might look like,
+someday.</p>
+]]></description>
+            <link>http://website.com/nomad/glimpse.html</link>
+            <guid isPermaLink="true">http://website.com/nomad/glimpse.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poop, Fire, and Land]]></title>
+            <description><![CDATA[<p>I survived survival school. Wew. That&#39;s good.</p>
+<p>There&#39;s a lot of surviving that goes on at survival school actually. In fact,
+everyone survived.</p>
+<p>Actually, whatever survival is, it played a pretty small role in the trip,
+although I&#39;m sure everyone&#39;s experience was different. I would describe it as a
+wilderness expedition designed to maximize connection to, and minimize
+insulation from, the wilderness that one is expeditioning in.</p>
+<p>There are three stories to tell from this experience. Okay, there are more, but
+there are three that speak of some powerful moments and are certainly
+highlights of my experience. One is about poop, one is about fire, and one is
+about land.</p>
+<p>POOP: Somewhere in the middle of this 14-day course we stopped walking for a
+bit and setup a base camp of sorts for 2 days. During this time we slaughtered,
+processed, and consumed a sheep, all done in the woods with little more than
+our small knives and some cast iron. Part of this experience was educational:
+learning how to respectfully, humanely and quickly do the slaughtering,
+learning how to effectively clean and butcher the sheep, learning how to
+preserve and prepare close to all of the edible portions of the sheep. Part of
+this experience was experiential. A good number of us had never partaken in the
+slaughtering and processing of the animals that we eat, and it is certainly a
+powerful experience. To witness and partake in the transformation of a living
+animal into a delicious, nourishing, and satisfying meal was to put myself into
+direct contact with the flow of life from another being into myself.</p>
+<p>The really magical moment, though, came the next morning. I had hiked up the
+hill for my daily morning poop. I had done my business in a small hole and as
+we had been taught, was mixing it into the soil to help kickstart the breaking
+down and fertilization process.</p>
+<p>I froze, shivers running up and down my spine. For lack of a better way of
+putting this, I was experiencing myself as part of the circle of life and in a
+very powerful way. I felt a deep connection with the flow of life and felt
+myself as a part of it, or a conduit of it, or perhaps both. I had to stand
+there for a couple minutes just staring at my hole of poop. All I could see was
+the life of the sheep being transformed, yet again, into the life of the soil
+and the life of the land. It was a life that I had helped to take, a life that
+I had held onto for a little while, and a life that I was now passing back into
+the greater web of the living land.</p>
+<p>The idea of the circle of life, and the flow of energy through ecological
+systems, is certainly something I&#39;ve been familiar with for some time. But, due
+in a large part to the fact that in my regular life I have no direct experience
+of where the life that sustains me comes from and no direct experience of what,
+if anything, it nourishes when it leaves me, I had never had the experience of
+actually being a part of the circle of life or an ecological system. So, that
+was pretty cool.</p>
+<p>FIRE: There are few things that define humans as much as our relationship with
+fire. All of modern civilization was forged on our ability to create and
+control flame. The transformative power of combustive heat is without equal.
+Without it, our tools would be rocks, our houses would be sticks, and our food
+would be cold.</p>
+<p>We have so mastered the creation and control of fire that we can turn it on
+with the flick of a wrist or thumb, the turning of a key, or the push of a
+button. It is fully ingrained continuously in the fabric of our daily lives.</p>
+<p>But what happens when we step out of our daily lives? Perhaps we step into
+survival school where we don&#39;t have our prefabricated (with fire) matches or
+lighters. Fire becomes hard and it becomes a big deal.</p>
+<p>We had our bow drill fire lesson within the first couple days of the course.
+Which, if you&#39;re unfamiliar, involves a fire board to be drilled into, a
+spindle to do the drilling, and a bow to spin the spindle. The idea here is to
+create a fine sawdust by drilling the wooden spindle into the board. The
+sawdust falls into a notch cut into the board and when enough has accumulated
+the speed of the drilling is increased to heat up the sawdust and turn it into
+a coal. The coal can then be transferred to a tinder bundle and breathed into
+fire. At least that is how it&#39;s supposed to work. The actuality of the thing is
+a delicate balancing act of patience and perseverance because it takes some
+time to get everything dialed in to the level of relative flawlessness needed
+for the operation to succeed.</p>
+<p>I tried unsuccessfully for the first couple nights, put it on hold during sheep
+camp, and then we transitioned to the solo phase of the course. For the solo
+phase of the course we each got our own small patch of land on which to be by
+ourselves for two days. We each got a portion of food (oatmeal, quinoa,
+lentils, a few veggies) and were left to our own devices. We started in the
+evening, and after getting a quick shelter setup I immediately began working my
+fire kit. I felt a certain amount of pressure. There wasn&#39;t a lot of light
+left, I didn&#39;t want to eat uncooked lentil stew, and I hand&#39;t yet successfully
+got a fire going. But I felt strangely confidant. I knew I had been close
+before, and I was feeling that this would be an extremely excellent time for a
+first fire.</p>
+<p>I started afresh with a new hole in my fireboard (the fifth hole). I drilled in
+a little ways with my spindle and cut my notch. It was time to go at it. At
+first I was having trouble creating sawdust. I added some pine sap as
+lubrication between the spindle and my top rock and also added a bit of sand
+into the hole I was drilling into the board. The goal was to force as much
+friction to the end of the spindle that was drilling into the board as
+possible, while reducing the friction at the top of the spindle. It worked. I
+started getting a lot of sawdust, sped up my strokes and the sawdust started
+smoking. I had a coal! I carefully transferred it to my pre-made tinder bundle
+and started giving it long slow breaths. After five or six of these there was
+nothing left glowing in my tinder bundle. I&#39;d lost the coal.</p>
+<p>Evening was coming on, and the pressure was building. Could I get this fire lit
+before dark? I still felt confidant and knew I needed to stay calm if I was
+going to succeed. I added some powdered and fibrous oak leaves to my tinder
+bundle and some crushed up, dried out pine needles. I used the same hole on my
+fire board and the coal came quickly. I did another careful transfer to my
+tinder bundle and again started long slow breaths. This time I could see the
+coal growing and passing on its glowing life to the other elements of the
+tinder bundle. And it was starting to smoke, a lot, a good sign the fire was on
+its way. I continued the long slow breaths and the smoke started pouring into
+my eyes. I couldn&#39;t see and my eyes were burning, but I had to continue. A long
+deep and powerful breath and I felt that my eyes were now actually burning
+instead of just stinging from smoke. I moved the tinder bundle away from my
+face and squinted open my eyes. I was holding fire in my hand! The tiny flames
+were leaping around my tinder bundle quickly getting bigger. I transferred the
+flaming mass into my fire pit and quickly nursed the tinder into a small but
+powerful campfire.</p>
+<p>I was ecstatic. And I was in disbelief. Partially at what I had accomplished,
+but also at the effect it was having on me. I started this story talking about
+how fire permeates modern human life. I can say now that not only does it
+permeate our life, but it permeates our genes as well. Conjuring the spirit of
+fire from the raw landscape struck an unexpectedly primal and deep seated chord
+within me. I sat down, cooked my lentils, and gazed, mesmorized, into my fire,
+basking in the radiance of the power I had unleashed.</p>
+<p>[As a side note, if you ever find yourself breathing a tinder bundle to life,
+hold the thing above the level of your face so as to avoid the discomfort of
+smoke and flames in the eyes. :-)]</p>
+<p>LAND: This section may also be titled place, or presence, or belonging, or
+harmonious existing, or any number of other similar names, but it was the land
+that tied it all together, and it was the land that was there for me to step
+into, and it was the land that I became a part of, so this section is titled
+land.</p>
+<p>It was the last day of hiking, the day before we all began making our way to
+our respective homes. It is hard for me to know what brought on this
+experience. It could have been the days of constant hiking, it could have been
+the distance I felt from the rat race, it could have been the constant living
+in closer connection with the means of my existence, but what it felt like is
+that I said, &quot;I am here, now&quot;, and the land said &quot;Welcome. You belong here,
+now.&quot;</p>
+<p>To describe this experience more is going to be difficult, but it was dominated
+by two things. First, the constant monologue that defines my life ceased. That
+little voice, the constant narrator and analyzer of existence finally shut his
+trap, and in his place, a quiet stillness welled up inside of me. This
+experience, of being in the flow, or being the moment, is one that I&#39;ve had at
+various times before. Usually it will happen in an intense high focus activity
+(like skiing) but sometimes it will also happen during quieter times as well.
+It basically amounts to my minds acceptance to just be in whatever moment it
+finds itself and not go willy-nilly thinking about other moments, or worse,
+getting stuck in the meta-moment of moment analyzation.</p>
+<p>This time, however, was a bit different in that there was a second factor.
+Namely, it seemed like it was not just my own mind that was content and stoked
+to experience itself in the exact moment it was in but something else as well
+welcomed me into the moment and corroborated my existence in that place at that
+time. The feeling I got was that it was the place, the land, the desert, that
+accepted me into it, in effect saying that I was a part of that land as well.</p>
+<p>This is what I&#39;ve been working towards. This is what my expeditions into the
+wilderness are for. The feeling that not only do I belong on and in the land,
+but that I am integrated with the workings of the land, and that my life is a
+piece of the greater whole of the living earth.</p>
+<p>This feeling lasted with me for most of the rest of the day. And to diminishing
+degrees, it stays with me still. A small, but constant reminder that life is
+everywhere, and everywhere it is connected.</p>
+]]></description>
+            <link>http://website.com/nomad/poop-fire-and-land.html</link>
+            <guid isPermaLink="true">http://website.com/nomad/poop-fire-and-land.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:50:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
