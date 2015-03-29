@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Wylde Chronicles]]></title>
+        <description><![CDATA[The Wylde Chronicles]]></description>
+        <link>http://www.thewyldechronicles.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 29 Mar 2015 18:58:50 GMT</lastBuildDate>
+        <atom:link href="http://www.thewyldechronicles.com/chapters-feed2.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 29 Mar 2015 18:58:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hour of The Village]]></title>
+            <description><![CDATA[Non-time in the Southwest]]></description>
+            <link>http://www.thewyldechronicles.com/anake/hour-of-the-village.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/hour-of-the-village.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2015 18:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Scrappy Ninja]]></title>
+            <description><![CDATA[A Game of Capture the Flag]]></description>
+            <link>http://www.thewyldechronicles.com/anake/the-scrappy-ninja.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/the-scrappy-ninja.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2015 23:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thank You For This Moment]]></title>
+            <description><![CDATA[Thanksgiving Address Reflection]]></description>
+            <link>http://www.thewyldechronicles.com/anake/thank-you-for-this-moment.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/thank-you-for-this-moment.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2015 23:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Babbling Brook]]></title>
+            <description><![CDATA[Sense Meditation Reflection]]></description>
+            <link>http://www.thewyldechronicles.com/anake/the-babbling-brook.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/the-babbling-brook.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2015 19:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dirt Medicine]]></title>
+            <description><![CDATA[Sit Spot Reflection]]></description>
+            <link>http://www.thewyldechronicles.com/anake/dirt-medicine.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/dirt-medicine.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2015 22:44:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocketships are Rad]]></title>
+            <description><![CDATA[An Introduction...]]></description>
+            <link>http://www.thewyldechronicles.com/anake/rocketships-are-rad.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/rocketships-are-rad.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Mon, 02 Mar 2015 22:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poop, Fire, and Land]]></title>
+            <description><![CDATA[Field Course at Boulder Outdoor Survival School (BOSS)]]></description>
+            <link>http://www.thewyldechronicles.com/nomad/poop-fire-and-land.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/nomad/poop-fire-and-land.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glimpse]]></title>
+            <description><![CDATA[A Visit to Teaching Drum Wilderness School]]></description>
+            <link>http://www.thewyldechronicles.com/nomad/glimpse.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/nomad/glimpse.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Sun, 11 Jan 2015 00:50:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
