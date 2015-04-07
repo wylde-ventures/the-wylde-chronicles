@@ -5,9 +5,9 @@
         <description><![CDATA[The Wylde Chronicles]]></description>
         <link>http://www.thewyldechronicles.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2015 06:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2015 05:10:17 GMT</lastBuildDate>
         <atom:link href="http://www.thewyldechronicles.com/chapters-feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2015 04:50:41 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2015 04:26:06 GMT</pubDate>
         <item>
             <title><![CDATA[Hour of The Village]]></title>
             <description><![CDATA[Non-time in the Southwest]]></description>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/hour-of-the-village.html</guid>
             <dc:creator><![CDATA[Jeremiah]]></dc:creator>
             <pubDate>Mon, 16 Feb 2015 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Only in Silence the Word]]></title>
+            <description><![CDATA[A Blindfolded Day, Part 1]]></description>
+            <link>http://www.thewyldechronicles.com/anake/only-in-silence-the-word.html</link>
+            <guid isPermaLink="true">http://www.thewyldechronicles.com/anake/only-in-silence-the-word.html</guid>
+            <dc:creator><![CDATA[Jeremiah]]></dc:creator>
+            <pubDate>Thu, 12 Feb 2015 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Scrappy Ninja]]></title>
