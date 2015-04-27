@@ -149,7 +149,7 @@
 						
           </div><!-- /.blog-post -->
 					
-					<div class="call-to-share well">
+					<div id="seen-all-content" class="call-to-share well">
 						<p>Thanks for reading!  If you enjoyed this chapter please consider
 						liking or sharing this page with the links below.</p>
 						<p>This is encouragement for me to write more!</p>
@@ -329,6 +329,13 @@
 		  var top = (screen.height/2)-(h/2);
 		  return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
 		} 
+		</script>
+		
+		<script src="/js/vendor/jquery.scrolldepth.min.js"></script>
+		<script>
+		jQuery(function() {
+		  jQuery.scrollDepth({elements: ['#seen-all-content']});
+		});
 		</script>
 		
 	</body>
